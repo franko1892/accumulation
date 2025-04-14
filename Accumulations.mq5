@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                              AcumulacionWyckoff  |
-//|                        Creado por ChatGPT para ti :)             |
+//|                        Creado por ChatGPT para Franco Ramirez :) |
 //+------------------------------------------------------------------+
 #property indicator_chart_window
 #property strict
